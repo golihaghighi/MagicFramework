@@ -1,7 +1,7 @@
 <?php
 namespace lib\layout1;
 
-** 
+/** 
  * A interface that implements Layout Node methods
  * @author Afshin
  * @version 1.0
